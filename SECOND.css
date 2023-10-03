@@ -64,10 +64,11 @@ flex-direction: column;
 
    
 }
-.box form .user input {
+.box form .user input#yes ::placeholder{
     color:black;
-    
+    opacity:1;
 }
+
 /* form .gander p{
     color:black;
     font-size: 16px;
