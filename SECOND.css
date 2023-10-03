@@ -64,12 +64,17 @@ flex-direction: column;
 
    
 }
-.box form .user input#yes ::placeholder{
+input::placeholder {
+    font-weight: bold;
+    opacity: 0.6;
+    color: rgb(0, 0, 0);
+  }
+  input[type=text]{
     color:black;
-    opacity:1;
-}
+  }
 
-/* form .gander p{
+
+form .gander p{
     color:black;
     font-size: 16px;
 
@@ -79,7 +84,7 @@ flex-direction: column;
     color:black;
     font-size: 16px;
     font-weight: bold;
-} */
+}
     
 
  
