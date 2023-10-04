@@ -1,0 +1,14 @@
+
+
+body{
+    display: flex;
+    justify-content:center;
+    align-items:center;
+}
+
+section{
+ height:345px;
+ width:1300px;
+ border:2px solid black;
+ 
+}
