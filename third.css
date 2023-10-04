@@ -10,11 +10,15 @@ body{
     justify-content:center;
     align-items:center;
 }
+.nav{
+    display: inline;
+}
 
 section{
- height:345px;
+ height:400px;
  width:1300px;
  background-image:url(./academics.jpg);
  background-position: center;
  background-size:cover;
 }
+
