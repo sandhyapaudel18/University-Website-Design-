@@ -1,6 +1,11 @@
-
+*{
+    margin:0px;
+    padding:0px;
+}
 
 body{
+    height:100vh;
+    width:100%;
     display: flex;
     justify-content:center;
     align-items:center;
@@ -9,10 +14,7 @@ body{
 section{
  height:345px;
  width:1300px;
- border:2px solid black;
  background-image:url(./academics.jpg);
-background-position: center;
-background-size:cover;
-border-radius:10px;
-
+ background-position: center;
+ background-size:cover;
 }
