@@ -2,7 +2,7 @@
 *{
     margin:0px;
     padding:0px;
-    font-family: 'Poppins', sans-serif;
+
 }
 header{
     height:60px;
@@ -49,13 +49,13 @@ flex-direction: column;
 .box form h1{
     font-size: 36px;
     color:black;
-    font-weight: bolder;
+    font-weight:900;
 }
 
 .box form .user{
     color:black;
     font-size: 16px;
-    font-weight: bold;
+    font-weight: 900;
 }
 
 .box form .user input#yes {
@@ -64,24 +64,12 @@ flex-direction: column;
 
    
 }
-
-
- form .user input{
-    color:black;
-  }
-
-
-form .gander p{
+.box form .gander{
     color:black;
     font-size: 16px;
+    font-weight: 900;
+}
 
-}
-   
-.box form .gander input#gen{
-    color:black;
-    font-size: 16px;
-    font-weight: bold;
-}
     
 
  
