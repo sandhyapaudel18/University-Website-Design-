@@ -10,5 +10,9 @@ section{
  height:345px;
  width:1300px;
  border:2px solid black;
- 
+ background-image:url(./academics.jpg);
+background-position: center;
+background-size:cover;
+border-radius:10px;
+
 }
