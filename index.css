@@ -47,13 +47,13 @@ nav img{
 .nav-link ul li a:hover::after{
     width:100%;
     }
-.nav-link ul li p{
+/* .nav-link ul li p{
     background-color:rgb(109,179,202);
  
     color:#fff;
     height:21px;
     width: 100px;
-}
+} */
 
 .textbook{
     width:90%;
